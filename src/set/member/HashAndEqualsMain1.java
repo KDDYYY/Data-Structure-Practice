@@ -2,7 +2,7 @@ package set.member;
 
 import set.MyHashSetV2;
 
-public class MemberNoHashNoEqMain1 {
+public class HashAndEqualsMain1 {
     public static void main(String[] args) {
         MyHashSetV2 set = new MyHashSetV2(10);
         MemberNoHashNoEq m1 = new MemberNoHashNoEq("A");
