@@ -1,7 +1,9 @@
 package deque;
 
 import java.util.Queue;
-
+/*
+기본 정렬 방법은 오름차순
+ */
 public class PriorityQueueMain {
     public static void main(String[] args) {
         Queue<Integer> queue = new java.util.PriorityQueue<>();
